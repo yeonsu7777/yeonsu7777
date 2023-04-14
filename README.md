@@ -3,6 +3,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rosie0707)](https://solved.ac/rosie0707)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonsu97&show_icons=true&theme=radical)
+
 <!--
 **yeonsu97/yeonsu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
